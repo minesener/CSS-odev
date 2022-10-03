@@ -1,0 +1,21 @@
+
+#urun{
+    text-align: center;
+    color: rgb(138, 206, 49);
+}
+
+a{
+    text-decoration: none;
+   
+}
+ul{
+    text-align: center;
+   list-style-position: inside;
+}
+ 
+h3{
+    color: brown;
+    text-shadow: 5px;
+}
+footer{
+   margin-top: 50px;
